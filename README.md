@@ -1,3 +1,5 @@
+<img src="https://aquiles.click/wp-content/uploads/2021/08/supermercado-online-1200x480.jpg.webp">
+
 # Geek Shop - Sistema de Cadastro e Venda de Produtos
 
 Este projeto é um sistema simples de gerenciamento de produtos e carrinho de compras desenvolvido em Python. Ele permite cadastrar produtos, listar os disponíveis, adicionar produtos ao carrinho, visualizar o carrinho e finalizar o pedido.
