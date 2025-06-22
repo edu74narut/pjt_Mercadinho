@@ -65,7 +65,7 @@ def listar_produtos() -> None:
         print('--------------------')
         for produto in produtos:
             print(produto)
-            print('---------------')
+            print('--------------------')
             sleep(1)
     else:
         print('Ainda não existem produtos cadastrados!')
